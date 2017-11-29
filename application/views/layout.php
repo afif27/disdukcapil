@@ -32,8 +32,8 @@
                 <div class="col-xs-12 col-md-6">
                     <address>
                         <strong>input nama Desa dan alamat disini<br>
-                        KECAMATAN TAMBUSAI</strong><br>
-                       Jalan KPN, Kospigura, Dalu-dalu, Rokan Hulu, Riau  <br>
+                        </strong><br>
+                       <br>
                          <br>
                     </address>
                 </div>
@@ -74,7 +74,7 @@
 </div>
 
 <noscript>
-    <p class="noscript">Javascript pada browser Anda tidak diaktifkan. Silakan mengaktifkan Javascript.</p>
+    <p class="noscript">Javascript pada browser Anda tidak diaktifkan. Silakan aktifkan javascript anda.</p>
     <style type="text/css">
         #wrapper { display:none; }
         .noscript {
